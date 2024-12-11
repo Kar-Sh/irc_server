@@ -52,6 +52,4 @@ Use `Ctrl+D` to send the command in parts to test the server's ability to handle
 
 The server will aggregate received packets to rebuild the command and process it correctly.
 
----
 
-Feel free to report issues or contribute enhancements to the project!
